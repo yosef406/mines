@@ -1,7 +1,9 @@
 added pictures to flag and mines and a closed spot
 
 added popups if the player wins or losses 
-	or adds too many mines (i made it alow only ((width * heght) / 4) ) to make the game more playable
+	or adds too many mines (i made it alow only ((width * heght) / 3) ) to make the game more playable
 	or ith the player enters letters or words in the text fields instead of numbers
 	each are with there own indecating picture
 also the game does nothing if the player wins or loses
+used scenebuilder
+most of the code is in the controller file
